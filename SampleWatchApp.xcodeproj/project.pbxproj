@@ -476,7 +476,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bb-sample-app";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.buddybuild-sample-app";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -494,7 +494,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bb-sample-app";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.buddybuild-sample-app";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -513,7 +513,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bb-sample-app.watchapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.buddybuild-sample-app.watchapp";
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -535,7 +535,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bb-sample-app.watchapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.buddybuild-sample-app.watchapp";
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -554,7 +554,7 @@
 				DEVELOPMENT_TEAM = L4FET847JL;
 				IBSC_MODULE = Boop_Extension;
 				INFOPLIST_FILE = Boop/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bb-sample-app.watchkitapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.buddybuild-sample-app.watchkitapp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -573,7 +573,7 @@
 				DEVELOPMENT_TEAM = L4FET847JL;
 				IBSC_MODULE = Boop_Extension;
 				INFOPLIST_FILE = Boop/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.bb-sample-app.watchkitapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.buddybuild-sample-app.watchkitapp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
