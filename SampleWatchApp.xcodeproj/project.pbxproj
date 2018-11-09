@@ -513,7 +513,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.perfectly-cooked.SampleWatchApp.watchkitapp.watchkitextension";
+				PRODUCT_BUNDLE_IDENTIFIER = com.byddybuild.boop.watchtest.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -535,7 +535,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.perfectly-cooked.SampleWatchApp.watchkitapp.watchkitextension";
+				PRODUCT_BUNDLE_IDENTIFIER = com.byddybuild.boop.watchtest.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -554,7 +554,7 @@
 				DEVELOPMENT_TEAM = N8Z88NS3AP;
 				IBSC_MODULE = Boop_Extension;
 				INFOPLIST_FILE = Boop/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.perfectly-cooked.SampleWatchApp.watchkitapp";
+				PRODUCT_BUNDLE_IDENTIFIER = com.byddybuild.boop.watchtest.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -573,7 +573,7 @@
 				DEVELOPMENT_TEAM = N8Z88NS3AP;
 				IBSC_MODULE = Boop_Extension;
 				INFOPLIST_FILE = Boop/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.perfectly-cooked.SampleWatchApp.watchkitapp";
+				PRODUCT_BUNDLE_IDENTIFIER = com.byddybuild.boop.watchtest.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
