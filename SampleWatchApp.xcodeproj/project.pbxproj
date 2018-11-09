@@ -513,7 +513,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.buddybuild-sample-app.watchapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.buddybuild-sample-app.watchkitapp.watchapp";
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -535,7 +535,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.buddybuild-sample-app.watchapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.buddybuild-sample-app.watchkitapp.watchapp";
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
